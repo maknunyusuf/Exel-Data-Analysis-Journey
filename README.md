@@ -83,9 +83,7 @@ Some of the topics covered during the session included:
 
 ### Picture of Me During Class
 
-
-
-
+![prime](prime.png)
 
 ## 4. Learning Outcomes
 
