@@ -67,11 +67,6 @@ It helps to:
 
 This section will contain examples of the Excel exercises I have completed during my learning process.
 
-I will include:
-- Screenshots of my practical exercises.
-- Excel workbooks.
-- Examples of formulas and their results.
-- Explanations of how each function works.
 
 ## 4. Learning Outcomes
 
