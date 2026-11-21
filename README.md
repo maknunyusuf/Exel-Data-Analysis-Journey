@@ -67,6 +67,7 @@ It helps to:
 
 This section will contain examples of the Excel exercises I have completed during my learning process.
 
+![yusufmaknun_exeltask](yusufmaknun_exeltask.slsx)
 
 ## 4. Learning Outcomes
 
