@@ -95,13 +95,20 @@ Through these lessons, I am developing the ability to:
 - Organise data through sorting and filtering.
 - Apply Conditional Formatting to identify important information.
 
-  
+  ## My learning journey
+| Tool | purpose | status |
+| ----- |  ---- |  ---- |
+| Exel | Data Analytics | started |
+| SQL | Data base Querying | Not started |
+| PowerBI | Create report | Not started |
+| Python | Data Analysis | Not started |
+
 
 ## 5. Conclusion
 
 Learning Excel is an important step in my journey towards becoming a skilled Data Analyst. I look forward to improving my knowledge, practising more functions and applying what I learn to real-world data.
 
-**This documentation will continue to grow as I learn new Excel concepts and complete more practical projects.**
+
 
 
 
