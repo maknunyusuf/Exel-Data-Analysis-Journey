@@ -69,6 +69,24 @@ This section will contain examples of the Excel exercises I have completed durin
 
 ![yusufmaknun_exeltask](yusufmaknun_exeltask.slsx)
 
+## 4. ## My Classroom Learning Experience
+
+I participated in an online Excel training session where I learned and practised different Excel techniques. During the class, I worked on practical exercises using Microsoft Excel.
+
+Some of the topics covered during the session included:
+
+- Conditional Formatting (Data Bars)
+- Sorting and Filtering
+- Data Validation
+- Basic statistical function
+- Text function
+
+### Picture of Me During Class
+
+
+
+
+
 ## 4. Learning Outcomes
 
 Through these lessons, I am developing the ability to:
