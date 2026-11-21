@@ -85,7 +85,7 @@ Some of the topics covered during the session included:
 
 ![prime](prime.png)
 
-## 4. Learning Outcomes
+## 5. Learning Outcomes
 
 Through these lessons, I am developing the ability to:
 
@@ -94,6 +94,8 @@ Through these lessons, I am developing the ability to:
 - Work with dates and time.
 - Organise data through sorting and filtering.
 - Apply Conditional Formatting to identify important information.
+
+  
 
 ## 5. Conclusion
 
