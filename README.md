@@ -69,6 +69,8 @@ This section will contain examples of the Excel exercises I have completed durin
 
 ![yusufmaknun_exeltask](yusufmaknun_exeltask.slsx)
 
+![Excel practice.xlsx](Exelpractice.xlsx)
+
 ## 4. ## My Classroom Learning Experience
 
 I participated in an online Excel training session where I learned and practised different Excel techniques. During the class, I worked on practical exercises using Microsoft Excel.
